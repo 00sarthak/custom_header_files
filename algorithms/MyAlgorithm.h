@@ -1,5 +1,5 @@
-#ifndef MY_ALGORITHM_H
-#define MY_ALGORITHM_H
+#ifndef MYALGORITHM_H
+#define MYALGORITHM_H
 
 #include <vector>
 #include <climits>
